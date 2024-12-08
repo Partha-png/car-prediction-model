@@ -74,8 +74,4 @@ car.head()
 ```
 Contributing 🤝
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the cleaning and analysis workflow.
-
-License 📜
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 This README provides a comprehensive guide to the notebook's purpose and usage. If you'd like me to refine this further or include specific sections from the notebook, let me know! 🚀 ​
